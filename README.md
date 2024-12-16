@@ -22,7 +22,7 @@ A simple **Snake Game** built using Python's `tkinter` library. In this game, yo
     ```
 4. Run the script:
     ```bash
-    python snake_game.py
+    python Snake_Game.py
     ```
 
 ---
