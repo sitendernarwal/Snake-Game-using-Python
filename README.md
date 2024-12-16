@@ -50,7 +50,7 @@ A simple **Snake Game** built using Python's `tkinter` library. In this game, yo
 ## File Structure
 ```
 .
-├── snake_game.py   # Main game script
+├── Snake_Game.py   # Main game script
 ├── README.md       # Documentation (this file)
 ```
 
