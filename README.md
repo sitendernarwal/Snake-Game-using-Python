@@ -57,16 +57,12 @@ A simple **Snake Game** built using Python's `tkinter` library. In this game, yo
 ---
 
 ## Screenshots
-(Add screenshots of the game in action here.)
-
 ![Screenshot 1](s1.png)
 ![Screenshot 2](s2.png)
 
 ---
 
 ## Video
-(Add a link to a gameplay video here.)
-
 [Gameplay Video](v1.mp4)
 
 ---
